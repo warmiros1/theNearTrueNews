@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://theneartruenews.com</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/homepages/School.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/homepages/Sports.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/homepages/Social.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/homepages/After-The-Academics.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/Contact/Contact.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://theneartruenews.com/About-Us/About-Us.php</loc>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+
+</urlset>

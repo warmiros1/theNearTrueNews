@@ -1,0 +1,12 @@
+document.write('<div id="footer">');
+document.write("<p>");
+document.write("Questions? Comments? Concerns? Lost your phone? Contact the ");
+document.write('<a href="mailto:20151216@student.nths.net?subject=The%20Near%20True%20News">');
+document.write('Web Developer');
+document.write('</a>');
+document.write('.');
+document.write('</p>');
+document.write('<p>');
+document.write('&#169;Copyright 2014 William Armiros and The Near True News. All rights reserved.');
+document.write('</p>');
+document.write('</div>');
