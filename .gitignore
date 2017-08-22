@@ -1,0 +1,10 @@
+.DS_Store
+*.jpg
+*.png
+*.docx
+*.ico
+*.mwb
+Images
+img
+*.esproj
+SlickNav
